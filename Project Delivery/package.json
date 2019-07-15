@@ -1,0 +1,16 @@
+{
+  "name": "schoolprojectminorswetypesafe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w -pretty",
+    "start": "node build/Main.js"
+  },
+  "author": "ali musharuf",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  },
+  "description": "school project minor swe"
+}
